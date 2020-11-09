@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coin flipper</string>
+    <string name="head">Head</string>
+    <string name="tails">Tails</string>
+</resources>
